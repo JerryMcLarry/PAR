@@ -70,8 +70,8 @@ Mod loader is NeoForge. Version is 21.1.250. Using a version beyond that may cau
 | Mod Name | Version on Server | Newest Version *(if any)* | Use | Download |
 |-----|-----|-----|-----|-----|
 | Apotheosis | 8.8.0 | - | Mod that changes how some potions work and overhauls the enchantment system. **Relies on A. Attributes, A. Enchanting, A. Spawners and Placebo.** | [Modrinth Page](https://modrinth.com/mod/apotheosis) |
-| Apothic Attributes | 2.10.1 | - | API library for Apotheosis, meant to detail the various attributes that you can find in Apotheosis. ***Used for Apotheosis.*** |
-| Apothic Enchanting | 1.6.2 | - | Module for Apotheosis, which overhauls the enchantment system. ***Used for Apotheosis.*** | 
+| Apothic Attributes | 2.10.1 | - | API library for Apotheosis, meant to detail the various attributes that you can find in Apotheosis. ***Used for Apotheosis.*** | [Modrinth Page](https://www.curseforge.com/minecraft/mc-mods/apothic-attributes)
+| Apothic Enchanting | 1.6.2 | - | Module for Apotheosis, which overhauls the enchantment system. ***Used for Apotheosis.*** | [Modrinth Page](https://www.curseforge.com/minecraft/mc-mods/apothic-enchanting) |
 | Apothic Spawners | 1.4.0 | - | Module for Apotheosis, which overhauls the spawner blocks. ***Used for Apotheosis.*** | [Modrinth Page](https://modrinth.com/mod/apothic-spawners) |
 | Apotheosis Modern Ragnarok: Zero | 1.1.8-7.0.1 | - | Mod that adds compatibility between TaCZ and Apotheosis' enchantment system. **Relies on Apotheosis and its various modules/APIs. Also relies on Gunsmith Lib.** | [CurseForge Page](https://www.curseforge.com/minecraft/mc-mods/apotheosis-modern-ragnarok) |
 | Gunsmith Lib | 1.1.8-6.4.4 | - | API library that allows for extensive modification to a TaCZ gun's performance. | [CurseForge Page](https://www.curseforge.com/minecraft/mc-mods/gunsmith-lib) |
