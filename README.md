@@ -67,8 +67,8 @@ Mod loader is NeoForge. Version is 21.1.250. Using a version beyond that may cau
 | Skin Layers 3D | 1.7.4 | Renders the outer layer of a skin in 3D. | [Modrinth Page](https://modrinth.com/mod/3dskinlayers) |
 
 # Apotheosis-core
-| Mod Name | Version on Server | Newest Version *(if any)* | Download |
-|------|------|------|------|
+| Mod Name | Version on Server | Newest Version *(if any)* | Use | Download |
+|-----|-----|-----|-----|-----|
 | Apotheosis | 8.8.0 | - | Mod that changes how some potions work and overhauls the enchantment system. **Relies on A. Attributes, A. Enchanting, A. Spawners and Placebo.** | [Modrinth Page](https://modrinth.com/mod/apotheosis) |
 | Apothic Attributes | 2.10.1 | - | API library for Apotheosis, meant to detail the various attributes that you can find in Apotheosis. ***Used for Apotheosis.*** |
 | Apothic Enchanting | 1.6.2 | - | Module for Apotheosis, which overhauls the enchantment system. ***Used for Apotheosis.*** | 
