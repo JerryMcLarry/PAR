@@ -9,7 +9,7 @@ Mod loader is NeoForge. Version is 21.1.250. Using a version beyond that may cau
 | Mod Name | Installed Version Number | Newer Version (An ! will be added if it seems important) | Use | Download Link/Mod Page | Notes |
 |------|------|------|------|------|------|
 | Architectury | 13.0.11 | - | API library. | [Modrinth Page](https://modrinth.com/mod/architectury-api)  |
-| Balm Library | - | - | API library. ***Used for Waystones.*** | 
+| Balm Library | 21.0.65 | 21.0.66 | API library. ***Used for Waystones.*** | [Modrinth Page](https://modrinth.com/mod/balm)
 | BetterBeacons | 2.1.1 | - | Makes beacons better. **Relies on Cerbon's API.** | [Modrinth Page](https://modrinth.com/mod/cerbons-better-beacons) |
 | Biomes O' Plenty | 21.1.0.14 | - | World-gen mod. **Relies on GlitchCore and TerraBlender.** | [Modrinth Page](https://modrinth.com/mod/biomes-o-plenty) |
 | Caelus | 7.0.1 | - | API library. ***Used for ElytraSlot.*** | [Modrinth Page](https://modrinth.com/mod/caelus) |
@@ -69,7 +69,7 @@ Mod loader is NeoForge. Version is 21.1.250. Using a version beyond that may cau
 # Apotheosis-core
 | Mod Name | Version on Server | Newest Version *(if any)* | Download |
 |------|------|------|------|
-| Apotheosis | 8.8.0 | - | Mod that changes how some potions work and overhauls the enchantment system. **Relies on A. Attributes, A. Enchanting, A. Spawners and Placebo.** | [Modrinth Page](https://modrinth.com/mod/apotheosis)
+| Apotheosis | 8.8.0 | - | Mod that changes how some potions work and overhauls the enchantment system. **Relies on A. Attributes, A. Enchanting, A. Spawners and Placebo.** | [Modrinth Page](https://modrinth.com/mod/apotheosis) |
 | Apothic Attributes | 2.10.1 | - | API library for Apotheosis, meant to detail the various attributes that you can find in Apotheosis. ***Used for Apotheosis.*** |
 | Apothic Enchanting | 1.6.2 | - | Module for Apotheosis, which overhauls the enchantment system. ***Used for Apotheosis.*** | 
 | Apothic Spawners | 1.4.0 | - | Module for Apotheosis, which overhauls the spawner blocks. ***Used for Apotheosis.*** | [Modrinth Page](https://modrinth.com/mod/apothic-spawners) |
